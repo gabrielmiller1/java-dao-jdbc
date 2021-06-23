@@ -5,9 +5,6 @@
         <group>
             <file>file:/C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/java-dao-jdbc/src/application/Program.java</file>
             <file>file:/C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/java-dao-jdbc/src/model/dao/impl/SellerDaoJDBC.java</file>
-            <file>file:/C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/java-dao-jdbc/src/model/dao/DaoFactory.java</file>
-            <file>file:/C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/java-dao-jdbc/src/model/dao/SellerDao.java</file>
-            <file>file:/C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/java-dao-jdbc/src/model/entities/Seller.java</file>
         </group>
     </open-files>
 </project-private>
